@@ -1,0 +1,26 @@
+{
+  "author": "Eric Fledderman",
+  "identifier": "com.ericfledderman.of.gtd",
+  "defaultLocale": "en",
+  "version": "0.1",
+  "description": "A collection of GTD based Omni Automation Scripts for OmniFocus",
+  "actions": [
+    {
+      "image": "icon.png",
+      "identifier": "about"
+    },
+    {
+      "image": "icon.png",
+      "identifier": "whatsNext"
+    }
+  ],
+
+  "libraries": [
+    {
+      "identifier": "OAUI"
+    },
+    {
+      "identifier": "OAUtils"
+    }
+  ]
+}
